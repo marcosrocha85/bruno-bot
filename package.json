@@ -1,0 +1,17 @@
+{
+    "name": "bruno-bot",
+    "version": "0.0.1",
+    "description": "Boa Noite Bruno",
+    "main": "bot.js",
+    "author": "Marcos Rocha",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "dotenv": "^8.1.0"
+    },
+    "engines": {
+        "node": "8.11.2"
+    }
+}
