@@ -8,4 +8,6 @@ You should create a .env file in order to use this bot.
 3. Set permissions you want your bot will have and copy the number of it.
 4. Change the link with your CLIENTID and permissions (if you want change permissions)
    https://discordapp.com/oauth2/authorize?&client_id=CLIENTID&scope=bot&permissions=8
-5. Profit.
+5. Download and Install (if you haven't done already) the Node.js (minimum 8.11.2)
+6. Run with: `npm run start`
+7. Profit.
